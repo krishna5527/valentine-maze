@@ -295,7 +295,7 @@ setTimeout(() => {
   setTimeout(() => {
     meetHugAudio.pause();
     meetHugAudio.currentTime = 0;
-    window.location.href = "index.html";
+    window.location.href = "proposal.html";
   }, 5000);
 
 }, 2200);
